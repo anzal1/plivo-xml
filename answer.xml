@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>
   <Dial>
-    <User>sip:+1000@sip.rtc.elevenlabs.io:5060;transport=tcp</User>
+    <User>sip:agent_4701k8zjxg8ef7mrxgprfwxbrvtn@sip.rtc.elevenlabs.io:5060;transport=tcp</User>
   </Dial>
 </Response>
